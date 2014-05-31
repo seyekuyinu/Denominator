@@ -10,13 +10,13 @@ Feel free to contribute to this project
 Instructions
 ============
 
--Download to your WordPress theme folder
--Activate the plugin from your Appearance->Themes page
+*Download to your WordPress theme folder
+*Activate the plugin from your Appearance->Themes page
 
 
 Requirements
 ============
 
 To have the exact replicate of what's on my site, you will need to download the following plugins:
--Paragraph Commenting: https://github.com/pommiegranit/paragraph_commenting
--WP PageNavi: http://wordpress.org/plugins/wp-pagenavi/
+*Paragraph Commenting: [https://github.com/pommiegranit/paragraph_commenting](https://github.com/pommiegranit/paragraph_commenting)
+*WP PageNavi: [http://wordpress.org/plugins/wp-pagenavi/](http://wordpress.org/plugins/wp-pagenavi/)
